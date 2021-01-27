@@ -1,1 +1,1 @@
-Learning git, create branches!
+Learning to use git!
